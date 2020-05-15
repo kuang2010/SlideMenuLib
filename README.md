@@ -1,8 +1,10 @@
 # SlideMenuLib
-![Image text](1.png)
+
+![Image text] (1.png)
 
 
 How to
+
 To get a Git project into your build:
 
 Step 1. Add the JitPack repository to your build file
@@ -21,3 +23,8 @@ Step 2. Add the dependency
 	dependencies {
 	        implementation 'com.github.kuang2010:SlideMenuLib:Tag'
 	}
+	
+
+
+
+Note SlideMenuLib is from [jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
