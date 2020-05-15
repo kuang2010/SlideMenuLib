@@ -1,6 +1,6 @@
 # SlideMenuLib
 
-![Image text] (1.png)
+![Image text](1.png)
 
 
 How to
