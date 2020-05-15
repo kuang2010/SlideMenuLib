@@ -29,8 +29,8 @@ Step 2. Add the dependency
 
 Simple Example
 
-
    protected void onCreate(Bundle savedInstanceState) {
+   
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mMenu = new SlidingMenu(this);
@@ -40,6 +40,7 @@ Simple Example
         mMenu.setFadeDegree(0.9f);
         mMenu.attachToActivity(this, SlidingMenu.SLIDING_CONTENT);
         mMenu.setMenu(R.layout.layout_menu);
+	
     }
 
 
