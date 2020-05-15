@@ -1,0 +1,3 @@
+rootProject.name='SlideMenuLib'
+include ':app'
+include ':menu'
