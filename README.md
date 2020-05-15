@@ -30,7 +30,6 @@ Step 2. Add the dependency
 Simple Example
 
    protected void onCreate(Bundle savedInstanceState) {
-   
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mMenu = new SlidingMenu(this);
